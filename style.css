@@ -1,0 +1,11 @@
+.hana1{color:green}
+#hana2{color:blue}
+nav{display: flex;padding:20px }
+
+li{display:inline-flex; margin: 20px;font-size:20px}
+body
+{background-color: orange;font-family:roboto;}
+img{margin-right: 50%;}
+h1{text-align: center;}
+.w1{color:white;
+text-align: center;}
